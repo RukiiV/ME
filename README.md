@@ -1,5 +1,6 @@
 # ME
 
-Well hello there! My name is Elliot and I'm a college student studying Math & Computer Science. 
+Why hello there! My name is Elliot!
+I'm in my second year of college studying Math.
 
-I may post some personal projects on here but I'm not too sure yet.
+I might post some personal projects on here but I'm not too sure.
